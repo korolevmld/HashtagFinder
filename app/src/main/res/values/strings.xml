@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HashtagFinder</string>
+    <string name="title_reg">Регистрация</string>
+    <string name="title_login">Login:</string>
+    <string name="hint_login">Введите логин</string>
+    <string name="title_password">Password:</string>
+    <string name="hint_password">Введите пароль</string>
+    <string name="title_button_reg">зарегистрироваться</string>
+    <string name="title_auth">Авторизация</string>
+    <string name="bt_title_auth">Войти</string>
+    <string name="main_title">Добро пожаловать!</string>
+    <string name="title_password_check">Confirm password</string>
+    <string name="hint_password_check">Подтвердите пароль</string>
+    <string name="hint_et_hashtag">Введите хэштег</string>
+    <string name="bt_text_add_hashtag">Добавить</string>
+    <string name="title_bt_approve_data">Сохранить</string>
+
+
+    <string-array name="serviceNames">
+        <item>Instagram</item>
+        <item>Вконтакте</item>
+    </string-array>
+</resources>
